@@ -1,0 +1,11 @@
+@import "tailwindcss";
+ @theme {
+  --color-base-gray-2 : #10121C;
+  --color-border : #1c1d26;
+  --color-accent-red : #F3535D;
+  --color-accent-yellow: #F8C246;
+  --color-base-gray-0 : #2B2B3B;
+  --color-base-gray-1 : #151820;
+  --color-accent-rose : #F13762;
+  --color-base-purple: #1B0F30;
+}
